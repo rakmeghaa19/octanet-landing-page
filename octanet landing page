@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M's Cafe</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin:0%;
+            padding:0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: #e64a19;
+            padding: 1em;
+            text-align: center;
+            color: white;
+            font-size: 1.5em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2em auto;
+            padding: 1em;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #e64a19;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #e64a19;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to M's Cafe</h1>
+    </header>    
+
+    <section>
+        <h2>About Us</h2>
+        <p>Discover the finest coffee and delicious pastries in a cozy atmosphere.Our cafe is the perfect place to unwind and enjoy quality time with friends.</p>
+        <h2>Menu</h2>
+        <p>Explore our diverse menu featuring freshly brewed coffee, a variety of teas, and mouth watering pastries made with love and care.</p>
+        <h2>Contact</h2>
+        <p>Visit us at 12 Anna Street,Cbe.For inquiries, call us at 1234567890 or email infor@ourcafe.com</p>
+    </section>
+
+    <footer>
+        &copy; 2024 M's Cafe.All rights reserved.
+    </footer>
+</body>
+</html>
